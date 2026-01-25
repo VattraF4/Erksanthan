@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "word": "Analysis",
+        "definition": "\u1782\u17ba\u1787\u17b6\u1780\u17b6\u1794\u17c6\u1794\u17c2\u1780\u1791\u17c5\u179b\u17be requirement \u17b2\u17d2\u1799\u1784\u17b6\u1799\u179f\u17d2\u179a\u17bd\u179b\u1782\u17d2\u179a\u1794\u17cb\u1782\u17d2\u179a\u1784\u178a\u17be\u1798\u17d2\u1794\u17b8\u1799\u1780\u1791\u17c5 Design Structure",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "2",
+        "word": "bottle neck",
+        "definition": "\u1780\u17b6\u179a\u179a\u17c0\u1794\u1785\u17c6\u1780\u17b6\u179a\u1784\u17b6\u179a\u179f\u17d2\u1791\u17c7\u1798\u17b6\u1793\u1780\u17c6\u17a0\u17bb\u179f\u1780\u17be\u178f\u17a1\u17be\u1784",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "3",
+        "word": "business",
+        "definition": "\u1782\u17ba\u1787\u17b6 organization \u178a\u17c2\u179b\u1794\u1798\u17d2\u179a\u17be\u179f\u17c1\u179c\u17b6\u1780\u1798\u17d2\u1798\u178a\u17be\u1798\u17d2\u1794\u17b8\u179a\u1780 profit",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "4",
+        "word": "business process",
+        "definition": "\u1787\u17b6\u179f\u17c6\u178e\u17bb\u17c6\u1780\u17b6\u179a\u1784\u17b6\u179a\u178a\u17c2\u179b\u179c\u17b6\u1796\u17b6\u1780\u17cb\u1796\u1793\u17d2\u1792\u1782\u17d2\u1793\u17b6 ( \u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799 Logical )",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "5",
+        "word": "business viewpoint",
+        "definition": "\u1782\u17ba\u1787\u17b6\u179f\u1798\u17b6\u179f\u1792\u17b6\u178f\u17bb \u17ac \u17a7\u1794\u1780\u179a\u178e\u17cd\u178a\u17c2\u179b\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1780\u17d2\u1793\u17bb\u1784 business",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "6",
+        "word": "buying",
+        "definition": "\u1787\u17b6\u179f\u1798\u17d2\u1798\u1797\u17b6\u1796\u17e1\u1793\u17c3\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u179a\u1780\u179b\u17bb\u1799\u200b \u178a\u17c2\u179b\u1798\u17b6\u1793buying, selling, import, export, exchange",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "7",
+        "word": "commerce",
+        "definition": "\u1796\u17b6\u1780\u17d2\u1799\u1794\u1785\u17d2\u1785\u17c1\u1780\u1791\u17c1\u179f\u179a\u1780\u179b\u17bb\u1799\u17d4\u200b \u178a\u17bc\u1785\u17a0\u17d2\u1793\u17b9\u1784\u1796\u17b6\u1780\u17d2\u1799 Trade",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "8",
+        "word": "contend",
+        "definition": "\u1780\u17d2\u179b\u17b9\u1798\u179f\u17b6\u179a\u1793\u17c3\u1796\u17d0\u178f\u17cc\u1798\u17b6\u1793 \u17d4\u200b \u17a7. \u1780\u17d2\u179b\u17b9\u1798\u179f\u17b6\u179a\u1793\u17c3 Knowlegde",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "9",
+        "word": "Cultures",
+        "definition": "",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "10",
+        "word": "data",
+        "definition": "\u1782\u17ba\u1787\u17b6\u1780\u17b6\u1796\u17b7\u178f \u178a\u17c2\u179b\u1780\u17b6\u179a\u1796\u17b7\u178f\u1793\u17c4\u17c7\u178f\u17c6\u178e\u17b6\u1784\u17b2\u17d2\u1799\u17a2\u17d2\u179c\u17b8\u178a\u17c2\u179b\u1798\u17b6\u1793 \u1793\u17b7\u1784\u17a2\u17d2\u179c\u17b8\u178a\u17c2\u179b\u1780\u17be\u178f\u17a1\u17be\u1784",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "11",
+        "word": "Design",
+        "definition": "\u1787\u17b6\u1780\u17b6\u179a\u1795\u17d2\u178a\u179b\u17cb\u1793\u17bc\u179c solution \u178a\u17c2\u179b\u1799\u17be\u1784\u1794\u17b6\u1793\u1792\u17d2\u179c\u17be\u1780\u17b6\u179a Analy \u179a\u17bd\u1785",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "12",
+        "word": "dimension",
+        "definition": "\u00a0\u179c\u17b7\u1798\u17b6\u178f\u17d2\u179a (\u1780\u17bc\u17a2\u179a\u178a\u17c4\u1793\u17c1) \u1796\u17a0\u17bb\u179c\u17b7\u1798\u17b6\u178f\u17d2\u179a \u17a2\u17b6\u1785\u1798\u17b6\u1793 \u17e1 dimension , 2 dimension, 3 dimension",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "13",
+        "word": "discovery",
+        "definition": "\u1782\u17ba\u1787\u17b6\u1780\u17b6\u179a\u179f\u17d2\u179c\u17c2\u1784\u179a\u1780\u17a2\u17d2\u179c\u17b8\u1798\u17bd\u1799\u17a0\u17be\u1799\u179a\u1780\u1783\u17be\u1789\u17d4 \u1780\u17b6\u179a\u179f\u17d2\u179c\u17c2\u1784\u179a\u1780\u1783\u17be\u1789\u17a2\u17d2\u179c\u17b8\u1798\u17bd\u1799",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "14",
+        "word": "Economy",
+        "definition": "\u1787\u17b6\u179b\u17bb\u1799\u179f\u179a\u17bb\u1794\u178a\u17c2\u179b\u179a\u17bd\u1798\u1794\u1789\u17d2\u1785\u17bc\u179b\u1782\u17d2\u1793\u17b6\u179a\u179c\u17c0\u1784 ( Tradind & Commerce)",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "15",
+        "word": "effeciency ",
+        "definition": "\u1780\u17b6\u179a\u1792\u17d2\u179c\u17be\u17a2\u17d2\u179c\u17b8\u1798\u17bd\u1799\u1794\u17b6\u1793\u178f\u17d2\u179a\u17bc\u179c \u1792\u17d2\u179c\u17be\u1798\u17d2\u178a\u1784\u178a\u179b\u17cb\u1782\u17c4\u179b\u178a\u17c5 \u17a2\u179f\u17cb\u179b\u17bb\u1799\u178f\u17b7\u1785",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "16",
+        "word": "exchange",
+        "definition": "\u1787\u17b6\u179f\u1798\u17d2\u1798\u1797\u17b6\u1796\u17e1\u1793\u17c3\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u179a\u1780\u179b\u17bb\u1799\u200b \u178a\u17c2\u179b\u1798\u17b6\u1793buying, selling, import, export, exchange",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "17",
+        "word": "explicit",
+        "definition": "\u1787\u17b6\u1785\u17c6\u178e\u17c1\u17c7\u178a\u17b9\u1784\u178a\u17c2\u179b\u17a2\u17b6\u1785\u179a\u17c0\u1794\u1785\u17c6\u1787\u17b6\u17af\u1780\u179f\u17b6\u1780\u178f\u17cb\u178f\u17d2\u179a\u17b6\u1791\u17bb\u1780 \u17d4\u200b\u1787\u17b6\u1795\u17d2\u1793\u17c2\u1780\u1798\u17bd\u1799\u1793\u17c3 Knowledge",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "18",
+        "word": "export",
+        "definition": "\u1787\u17b6\u179f\u1798\u17d2\u1798\u1797\u17b6\u1796\u17e1\u1793\u17c3\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u179a\u1780\u179b\u17bb\u1799\u200b \u178a\u17c2\u179b\u1798\u17b6\u1793buying, selling, import, export, exchange",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "19",
+        "word": "import",
+        "definition": "\u1787\u17b6\u179f\u1798\u17d2\u1798\u1797\u17b6\u1796\u17e1\u1793\u17c3\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u179a\u1780\u179b\u17bb\u1799\u200b \u178a\u17c2\u179b\u1798\u17b6\u1793buying, selling, import, export, exchange",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "20",
+        "word": "Information",
+        "definition": "\u1782\u17ba\u1787\u17b6\u1794\u178e\u17d2\u178a\u17bb\u17c6 data \u178a\u17c2\u179b\u1798\u17b7\u1793\u1791\u17b6\u1793\u17cb\u1798\u17b6\u1793\u1797\u17b6\u1796\u1796\u17b7\u178f\u1787\u17b6\u1780\u17cb\u179b\u17b6\u1780\u17cb\u17a2\u17b6\u1785\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1794\u17b6\u1793",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "21",
+        "word": "Information System",
+        "definition": "\u1782\u17ba\u1787\u17b6\u179f\u1798\u17b6\u179f\u1792\u17b6\u178f\u17bb\u1791\u17b6\u1780\u17cb\u1791\u1784\u1782\u17d2\u1793\u17b6 \u1793\u17b7\u1784\u1792\u17d2\u179c\u17be\u1780\u17b6\u179a\u1787\u17b6\u1798\u17bd\u1799\u1787\u17b6\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u178a\u17bc\u1785\u1787\u17b6 Process, Store, Share data \u178a\u17be\u1798\u17d2\u1794\u17b8 Control",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "22",
+        "word": "knowledge",
+        "definition": "\u1780\u17b6\u179a\u1799\u179b\u17cb\u178a\u17b9\u1784\u1796\u17b8\u179f\u1793\u17d2\u179f\u17c6\u1793\u17c3\u1796\u17d0\u178f\u17cc\u1798\u17b6\u1793\u178a\u17c2\u179b\u17a2\u17b6\u1785\u1791\u17c5\u1792\u17d2\u179c\u17be\u1780\u17b7\u1785\u17d2\u1785\u1780\u17b6\u179a\u178e\u17b6\u1798\u17bd\u1799\u1794\u17b6\u1793\u17d4 \\n\u1785\u17c2\u1780\u1785\u17c1\u1789\u1787\u17b6\u17e2 \u1798\u17b6\u1793\u17d6 tacit \u1793\u17b7\u1784 explicit",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "23",
+        "word": "Markets",
+        "definition": "\u1787\u17b6\u1780\u17b6\u1787\u17bd\u1794\u1782\u17d2\u1793\u17b6\u179a\u179c\u17b6\u1784\u17a2\u17d2\u1793\u1780\u179b\u1780\u17cb\u1793\u17b7\u1784\u17a2\u17d2\u1793\u1780\u1791\u17b7\u1789\u178a\u17be\u1798\u17d2\u1794\u17b8\u178a\u17c4\u17c7\u178a\u17bc\u179a\u1791\u17c6\u1793\u17b7\u1789",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "24",
+        "word": "raw ",
+        "definition": "\u1787\u17b6\u17a2\u17d2\u179c\u17b8\u17d7\u178a\u17c2\u179b\u1780\u17be\u178f\u17a1\u17be\u1784\u1790\u17d2\u1798\u17d7",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "25",
+        "word": "selling ",
+        "definition": "\u1787\u17b6\u179f\u1798\u17d2\u1798\u1797\u17b6\u1796\u17e1\u1793\u17c3\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u179a\u1780\u179b\u17bb\u1799\u200b \u178a\u17c2\u179b\u1798\u17b6\u1793buying, selling, import, export, exchange",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "26",
+        "word": "Strategic ",
+        "definition": "\u179b\u17d2\u17a2\u1794\u17c6\u1795\u17bb\u178f ,\u179b\u17d2\u17a2\u1794\u17d2\u179a\u179f\u17be\u179a",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "27",
+        "word": "Survival",
+        "definition": "\u1798\u17b6\u1793\u1792\u17d2\u179c\u17be\u17b2\u17d2\u1799 Business \u178a\u17c6\u178e\u17be\u179a\u1780\u17b6\u179a\u1787\u17b6\u1793\u17b7\u1785\u17d2\u1785\u200b(\u179a\u179f\u17cb\u1787\u17b6\u1793\u17b7\u1785\u17d2\u1785)",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "28",
+        "word": "tacit",
+        "definition": "\u1787\u17b6\u1785\u17c6\u178e\u17c1\u17c7\u178a\u17b9\u1784\u178a\u17c2\u179b\u1798\u17b7\u1793\u1785\u17d2\u1794\u17b6\u179f\u17cb\u179b\u17b6\u179f\u17cb \u1798\u17b7\u1793\u17a2\u17b6\u1785\u179a\u17c0\u1794\u179a\u17b6\u1784\u1787\u17b6\u17af\u1780\u179f\u17b6\u1794\u17b6\u1793 \u1787\u17b6\u1795\u17d2\u1793\u17c2\u1780\u1793\u17c3 Knowledge",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "29",
+        "word": "Trade",
+        "definition": "\u1796\u17b6\u1780\u17d2\u1799\u1794\u1785\u17d2\u1785\u17c1\u1780\u1791\u17c1\u179f\u179a\u1780\u179b\u17bb\u1799 \u17d4 \u178a\u17bc\u1785\u17a0\u17d2\u1793\u17b9\u1784\u1796\u17b6\u1780\u17d2\u1799 Commerce",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "30",
+        "word": "",
+        "definition": "",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "31",
+        "word": "\u1791\u17b8\u1795\u17d2\u179f\u17b6\u1794\u17d2\u179a\u1782\u17bd\u178f\u1794\u17d2\u179a\u1787\u17c2\u1784",
+        "definition": "\u1798\u1780\u1796\u17b8\u179a\u1780\u178f\u17d2\u178f\u17b6\u1796\u17b7\u1797\u1796\u179b\u17c4\u1780\u178f\u17c2\u1798\u17bd\u1799",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "id": "32",
+        "word": "\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u179a\u1780\u179b\u17bb\u1799\u1785\u17c2\u1780\u1785\u17c1\u1789\u1787\u17b6",
+        "definition": "buying, selling, import, export, exchange",
+        "created_at": "2026-01-25 12:29:42"
+    },
+    {
+        "word": "methodology",
+        "definition": "Testing",
+        "example": "Try to test te a p&#039;oun",
+        "id": 33,
+        "created_at": "2026-01-25 12:49:57",
+        "updated_at": "2026-01-25 12:49:57"
+    }
+]
